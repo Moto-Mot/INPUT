@@ -1,0 +1,55 @@
+h1 {
+    color: aliceblue;
+    font-family: cursive;
+    font-size: 4rem;
+    background-color: rgb(35, 35, 35);
+    margin: 0;
+}
+
+table {
+    border: 2px solid rgb(245, 245, 245);
+    color: aliceblue;
+    background-color: rgb(35, 35, 35);
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 1500px;
+    margin: auto; 
+}
+
+.div-table {
+    border: 2px solid rgb(245, 245, 245);
+    color: aliceblue;
+    background-color: rgb(35, 35, 35);
+    font-size: xf-large;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 1500px;
+    margin: auto; 
+    text-align: center;
+}
+.formView{
+    width: 2rem;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    color: aliceblue;
+}
+h2 {
+    color: aliceblue;
+    font-family: cursive;
+    font-size: 3rem;
+    background-color: rgb(35, 35, 35);
+    margin: 0;
+}
+
+a {
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+}
+
+body {
+    margin: 0;
+     background-color: rgb(52, 50, 50);
+      margin-top: 0;
+       margin-bottom: 0;
+}
